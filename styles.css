@@ -1,0 +1,32 @@
+body{
+    background-color: black;
+    color:bisque;
+    text-align: center;
+}
+.label{
+    border:none;
+}
+
+.title{
+    font-weight: 500;
+    font-style: italic;
+    margin:20px;
+    background-color: brown;
+}
+
+#query{
+    width:50%;
+}
+
+ul{
+    list-style-type: none;
+    
+}
+ul li {
+    display: inline-block;
+    border:  solid 1px white;
+    padding:10px;
+    border-radius: 5px;
+    margin:10px;
+    
+}
