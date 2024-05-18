@@ -33,6 +33,7 @@ async function getData() {
                     <img src="${data[0].show.image.medium}" alt=""></div>
                     <div class="col-7 text-start "> 
                      <h4>${n}</h4>
+                     <p>Country : ${country}</p>
                     <p>Genres :${genres}</p>  
                     <p>Language : ${lang}</p>    
                     <p>Premiered  on : ${premiere}</p>     
